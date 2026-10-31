@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://invaer.is-a.dev/"><img src="https://img.shields.io/badge/'invaer.is-a.dev'-21262d?style=flat-square&logoColor=white" alt="Website" /></a>&nbsp;
+<a href="https://invaer.is-a.dev/"><img src="https://img.shields.io/badge/invaer.is-a.dev-21262d?style=flat-square&logoColor=white" alt="Website" /></a>&nbsp;
 <a href="https://github.com/InvaerLabs"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="mailto:invaerlabs@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
