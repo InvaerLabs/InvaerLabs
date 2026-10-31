@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=999999&color=F8FAFC&center=true&vCenter=true&width=500&lines=Invaer+Labs" width="500" height="60" alt="Invaer Labs" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1600&color=e8384f&center=true&vCenter=true&width=680&lines=In-database+hybrid+retrieval+%E2%80%94+no+dedicated+vector+store.;LangGraph+state+machines+with+%3C5ms+semantic+caching.;TFLite+LSTM+%40+2.42ms+inference+on+ESP32+edge+hardware.;I+like+building+things+that+keep+running." width="680" height="46" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1600&color=e8384f&center=true&vCenter=true&width=680&lines=Hello+World!+ +Just+started+my+coading+jorney+store.;LangGraph+state+machines+with+%3C5ms+semantic+caching.;TFLite+LSTM+%40+2.42ms+inference+on+ESP32+edge+hardware.;I+like+building+things+that+keep+running." width="680" height="46" alt="Tagline" />
 
 <br><br>
 
